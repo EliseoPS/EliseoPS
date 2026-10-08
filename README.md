@@ -87,4 +87,7 @@ Me gusta analizar la necesidad del usuario, traducirla en tareas técnicas clara
 
 <img src="donut.gif" alt="Dona ASCII girando" width="380"/>
 
+
+*"Primero resuelve el problema. Después, escribe el código."* — John Johnson
+
 </div>
