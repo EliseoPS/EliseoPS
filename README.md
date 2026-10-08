@@ -4,22 +4,22 @@
 
 ### Ingeniero en Software y Sistemas Computacionales · Desarrollador Web & Móvil
 
-📍 León, Guanajuato, México &nbsp;|&nbsp;  Español (nativo) · English (avanzado) · Coreano (básico)
+📍 León, Guanajuato, México &nbsp;|&nbsp; Español (nativo) · English (avanzado) · Coreano (básico)
 
 <a href="mailto:eliseoparedes23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/eliseo-paredes-sánchez-8b459933b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/eliseo-paredes-s%C3%A1nchez-8b459933b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
 ---
 
-## Sobre mí -->
+## Sobre mí
 
 Desarrollador de software egresado de la **Universidad De La Salle Bajío** (2026) con experiencia real en entornos empresariales y freelance. He construido **sistemas POS y de almacén**, **sitios web optimizados para SEO**, **apps móviles en Kotlin** y una **plataforma de tarjetas de lealtad digitales** con pagos y pases para Apple Wallet / Google Wallet.
 
 Me gusta analizar la necesidad del usuario, traducirla en tareas técnicas claras y entregar soluciones documentadas y mantenibles. Hice un intercambio académico en **Dongseo University (Busán, Corea del Sur)**, así que estoy acostumbrado a trabajar en equipos multiculturales.
 
-## 💻 Stack tecnológico
+## Stack tecnológico
 
 **Frontend**
 
@@ -63,7 +63,7 @@ Me gusta analizar la necesidad del usuario, traducirla en tareas técnicas clara
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-## Proyectos destacados -->
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -72,34 +72,19 @@ Me gusta analizar la necesidad del usuario, traducirla en tareas técnicas clara
 | **GymBuddy** | App Android para gimnasios con módulo de progreso por usuario, consumiendo una API propia. Lideré al equipo y repartí tareas y roles. | Kotlin · Python · FastAPI · MySQL |
 | **Sitios web para empresas** | Páginas a medida para negocios de distintos sectores, optimizadas en SEO, rendimiento y responsividad. | HTML5 · Tailwind CSS · JavaScript |
 
-## Experiencia -->
+## Experiencia
 
 - **Desarrollador Web / Móvil · Freelance** (Feb 2025 – Presente) — POS y almacén con React y PostgreSQL, sitios optimizados para SEO.
 - **Desarrollador Web · Grupo Hernández Alba** (Ene 2024 – Ene 2025) — sistemas de punto de venta con JavaScript y PHP, administración de bases de datos SQL y no SQL, trabajo en equipo con Git, GitHub y GitLab.
 
-## Estadísticas de GitHub -->
+## Actualmente
+
+- Construyendo una plataforma de tarjetas de lealtad digitales (React + Supabase + Stripe)
+- Profundizando en APIs REST, seguridad de datos y buenas prácticas en producción
+- Abierto a nuevas oportunidades como desarrollador web y móvil
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EliseoPS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliseoPS&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes"/>
-
-<img src="https://streak-stats.demolab.com?user=EliseoPS&theme=tokyonight&hide_border=true" alt="Racha"/>
-
-</div>
-
-## Actualmente -->
-
--  Construyendo una plataforma de tarjetas de lealtad digitales (React + Supabase + Stripe)
--  Profundizando en APIs REST, seguridad de datos y buenas prácticas en producción
--  Abierto a nuevas oportunidades como desarrollador web y móvil
-
-<div align="center">
-
-*"Primero resuelve el problema. Después, escribe el código."* — John Johnson
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matsuyoshi30/donut.c/main/donut.gif" width="350" alt="ASCII Donut" />
-</p>
+<img src="donut.gif" alt="Dona ASCII girando" width="380"/>
 
 </div>
